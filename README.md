@@ -1,8 +1,8 @@
-# Globe Connect for Android
+# Globe Connect for PHP
 
 ## Introduction
-Globe Connect for Android platform provides an implementation of Globe APIs e.g Authentication, Amax,
-Sms etc. that is easy to use and can be integrated in your existing Android application. Below shows
+Globe Connect for PHP provides an implementation of Globe APIs e.g Authentication, Amax,
+Sms etc. that is easy to use and can be integrated in your existing PHP application. Below shows
 some samples on how to use the API depending on the functionality that you need to integrate in your
 application.
 
