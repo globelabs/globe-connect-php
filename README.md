@@ -1,4 +1,4 @@
-# Globe Connect for Android
+# Globe Connect for PHP
 
 ## Introduction
 Globe Connect for PHP provides an implementation of Globe APIs e.g Authentication, Amax,
