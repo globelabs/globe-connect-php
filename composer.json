@@ -1,0 +1,7 @@
+{
+    "name": "globelabs/globe-connect-php",
+    "description": "Globe Api",
+    "require": {
+        "php": "^5.3.3"
+    }
+}
