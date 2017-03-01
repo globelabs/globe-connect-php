@@ -1351,9 +1351,9 @@ print $subscriber->getSubscriberBalance();
 
 ```json
 {
-    terminalLocationList:
+    "terminalLocationList":
     {
-        terminalLocation:
+        "terminalLocation":
         [
             {
                 address: "639171234567",
@@ -1382,9 +1382,9 @@ print $subscriber->getReloadAmount();
 
 ```json
 {
-    terminalLocationList:
+    "terminalLocationList":
     {
-        terminalLocation:
+        "terminalLocation":
         [
             {
                 address: "639171234567",
