@@ -54,7 +54,7 @@ class Oauth extends Base {
         // intialize custom curl
         $curl = new Curl();
         // prepare get request
-        $curl->get($url);
+        $curl->post($url);
         // return curl response
         return $curl->exec();
     }

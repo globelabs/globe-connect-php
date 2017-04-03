@@ -26,6 +26,6 @@ require_once (__DIR__ . '/../src/Globe/Connect/Voice/Say.php');
 require_once (__DIR__ . '/../src/Globe/Connect/Voice/Session.php');
 require_once (__DIR__ . '/../src/Globe/Connect/Voice/StartRecording.php');
 require_once (__DIR__ . '/../src/Globe/Connect/Voice/Transfer.php');
-require_once (__DIR__ . '/../src/Globe/Connect/Voice/Transcripion.php');
+require_once (__DIR__ . '/../src/Globe/Connect/Voice/Transcription.php');
 require_once (__DIR__ . '/../src/Globe/Connect/Voice/Wait.php');
 
