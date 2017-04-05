@@ -39,7 +39,7 @@ class Sms extends Base {
         $url = sprintf(self::SEND_URL, $this->params['sender'], $this->params['token']);
         
         // loop sms required fields
-        foreach($smsRequired as $v) {
+        foreach($this->smsRequired as $v) {
             // check if required fields are set
             if(!isset($this->params[$v])) {
                 // throw new exception if a required field is not set
