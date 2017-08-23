@@ -2,6 +2,6 @@
     "name": "globelabs/globe-connect-php",
     "description": "Globe Api",
     "require": {
-        "php": "^5.3.3"
+        "php": "7.0.*"
     }
 }
