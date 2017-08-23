@@ -3,7 +3,7 @@
 
 ### Setting Up
 
-```composer require globe-connect-php```
+```composer require globelabs/globe-connect-php```
 
 ### Authentication
 
