@@ -2,7 +2,7 @@
     "name": "mannysoft/globe-connect-php",
     "description": "Globe Api",
     "require": {
-        "php": "7.0.*"
+        "php": ">=7.0.0"
     },
     "autoload": {
         "psr-4": {
