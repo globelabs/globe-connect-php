@@ -49,10 +49,10 @@ class Sms extends Base {
         
         // prepare request payload
         $payload = array('outboundSMSMessageRequest' => array(
-            'senderAddress' => 'tel:' . $this->params['sender'],
+            'senderAddress' => $this->params['sender'],
             'outboundSMSTextMessage'    => array(
                 'message'   => $this->params['message']),
-            'address'       => 'tel:' . $this->params['receiver_address']));
+            'address'       => $this->params['receiver_address']));
         
         // if client correlator is set
         if(isset($this->params['client_correlator'])) {
