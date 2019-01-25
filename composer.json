@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Globe\\": "src/"
+            "Globe\\": "src/Globe/"
         }
     }
 }
